@@ -5,7 +5,7 @@ Welcome to my personal portfolio repository! 🚀
 This repository contains all the code and resources for my personal website that showcases my **projects, technical skills, achievements**, and **certifications**.
 
 ## 🌐 Live Demo
-[Click here to view the live portfolio](https://your-live-portfolio-link.com)  
+[Click here to view the live portfolio](http://127.0.0.1:5500/index.html)
 *(Replace with actual URL once deployed)*
 
 ## 📌 Sections Included
